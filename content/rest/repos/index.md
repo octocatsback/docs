@@ -2,7 +2,8 @@
 title: REST API endpoints for repositories
 shortTitle: Repositories
 intro: >-
-  Use the REST API to create, manage and control the workflow of public and
+  Use the REST API to create
+, manage and control the workflow of public and
   private {% data variables.product.github %} repositories.
 allowTitleToDifferFromFilename: true
 redirect_from:
