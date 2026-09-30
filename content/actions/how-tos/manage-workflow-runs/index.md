@@ -16,7 +16,6 @@ children:
   - /download-workflow-artifacts
   - /remove-workflow-artifacts
   - /manage-caches
-  - /approve-runs-from-forks
 redirect_from:
   - /actions/managing-workflow-runs-and-deployments/managing-workflow-runs
   - /actions/configuring-and-managing-workflows/managing-a-workflow-run
